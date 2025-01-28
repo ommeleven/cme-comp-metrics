@@ -1,11 +1,8 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
 
 # Environment
 .env
 .venv
-
 # OS-specific
 .DS_Store
 
