@@ -1,10 +1,4 @@
-# Byte-compiled / optimized / DLL files
-
-# Environment
-.env
-.venv
-# OS-specific
-.DS_Store
-
-# Streamlit cache
-.streamlit/
+streamlit
+pandas
+matplotlib
+plotly
