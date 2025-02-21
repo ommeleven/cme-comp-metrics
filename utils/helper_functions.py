@@ -1,7 +1,7 @@
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # type: ignore
 import pandas as pd
 import streamlit as st
-import plotly.express as px
+import plotly.express as px # type: ignore
 
 # Sample data
 data = {
